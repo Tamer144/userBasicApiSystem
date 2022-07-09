@@ -1,0 +1,3 @@
+use npm packages manager to install the packages before using the system
+
+npm i
